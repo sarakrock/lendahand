@@ -1,0 +1,9 @@
+#friendship {
+            background-image:
+            url('../images/friendship.png')
+            background-size:contain;
+            background-repeat:none;
+            width:100%;
+            margin:0 auto;
+            height: 400px
+}
