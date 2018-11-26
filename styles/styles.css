@@ -49,5 +49,14 @@ h4 {
      text-align: right;
   }
 
-.bg-1 {background-color: #f15e60;
+.bg-1 {background-color: #ffffff;
 }
+
+.bg-2{ background-color:#f15e60; 
+}
+
+
+.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
