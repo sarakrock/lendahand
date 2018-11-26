@@ -55,8 +55,14 @@ h4 {
 .bg-2{ background-color:#f15e60; 
 }
 
+.bg-3{ background-color: #fdd532;
+}
+
 
 .container-fluid {
       padding-top: 70px;
       padding-bottom: 70px;
   }
+
+footer{ 
+ background-color: #3787c2;}
