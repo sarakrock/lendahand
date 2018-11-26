@@ -30,6 +30,7 @@ p{ text-align: left;
 }
 
 
-h4{font-family: freightsans;
+h4 {
+    font-family: freightsans;
     float: right;
     }
