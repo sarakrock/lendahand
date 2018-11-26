@@ -15,7 +15,7 @@ nav{ text-align: center;
 
 
 .topnav a {
-    float: left;
+    float: right;
     color: #f2f2f2;
     text-align: center;
     text-decoration: none;
@@ -35,3 +35,4 @@ p{ text-align: left;
 h4 {
     font-family: freightsans;
     }
+
