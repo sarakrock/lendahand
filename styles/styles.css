@@ -45,4 +45,6 @@ h4 {
       margin-bottom: 0;
       font-size: 12px;
       letter-spacing: 5px;
+     text-decoration: none;
+     text-align: right;
   }
