@@ -1,0 +1,55 @@
+.navbar{
+    background-color:#3787c2;
+    height: 80px;
+    width: 100;
+    top: 0;
+    margin: 0;
+    
+}
+
+.navbar h1 {
+    float: left;
+    margin-left: 40px;
+    font-family: freightsans;
+    font-weight: 600;
+    
+}
+
+.navbar nav {
+    float:right;
+    top: 0px;
+    margin-right: 40px;
+    font-family: freightsans;
+    font-weight: 200;
+    text-decoration: none;
+}
+
+.navbar nav ul{
+    float: right;
+    top: 0;
+    margin-right: 40px;
+    
+}
+
+.navbar nav ul li {
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 400;
+}
+
+
+h1 {
+    font-family: freightsans;
+    text-align: center;
+    font-style: bold;
+    font-size: 50;
+    color: #3787c2;
+}
+
+p1{
+    text-align: center;
+    font-family: freightsans;
+    color: #f15e60;
+    font-size: 20px;
+}
