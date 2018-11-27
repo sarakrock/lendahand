@@ -49,7 +49,6 @@ p2 {text-align: center;
     color: #ffffff;
     font-family: freightsans;
     font-size: 20px;
-    padding-left: 300px;
 }
 
 
@@ -109,7 +108,7 @@ h6{font-family: freightsans;
     text-align: right;
     font-size: 35px;
     color: #ffffff;
-    padding-right: 100px;
+    padding-right: 200px;
     
 }
     
@@ -153,13 +152,13 @@ section5 {
     display: block;
     width: 25%;
     border: none;
-    background-color: #3787c2;
+    background-color: #fdd532;
     padding: 8px 10px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
     font-family: freightsans;
-    color:#fdd532;
+    color:#ffffff;
     font-style: bold;
     border-radius: 5px;
 }
