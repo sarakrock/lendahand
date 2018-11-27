@@ -50,11 +50,18 @@ h1 {
 h2 { font-family: freightsans;
     text-align: left;
     font-style: bold;
-    font-size: 75;
+    font-size: 50;
     color: #3787c2;
     
 }
 
+h3{font-family: freightsans;
+    text-align: left;
+    font-style: bold;
+    font-size: 75;
+    color: #3787c2;
+    
+}
 p1{
     text-align: center;
     font-family: freightsans;
