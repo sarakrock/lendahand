@@ -43,8 +43,7 @@
 p1 { text-align: right;
     font-family: freightsans;
     color: #3787c2;
-    
-}
+    }
 
 p2 {text-align: center;
     color: #ffffff;
@@ -56,6 +55,13 @@ p2 {text-align: center;
 p3{
     text-align: right;
     color: #3787c2;
+    font-family: freightsans;
+    font-size: 20px;
+}
+
+p4{
+    text-align: right;
+    color: #ffffff;
     font-family: freightsans;
     font-size: 20px;
 }
@@ -92,16 +98,15 @@ h4 {
 
 h5 {
     font-family: freightsans;
-    text-align: right;
-    font-size: 35px;
-    color: #3787c2;
-    border-right: 200px;
-    }
-
-h6{font-family: freightsans;
     text-align: left;
     font-size: 35px;
     color: #3787c2;
+    }
+
+h6{font-family: freightsans;
+    text-align: right;
+    font-size: 35px;
+    color: #ffffff;
     border-right: 200px;
     
 }
