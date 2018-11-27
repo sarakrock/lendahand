@@ -85,7 +85,7 @@ h3 {
 
 h4 {
     font-family: freightsans;
-    text-align: right;
+    text-align: left;
     font-size: 35px;
     color: #3787c2;
     }
@@ -142,6 +142,17 @@ section5 {
     padding-bottom: 250px;
 }
 
+.block {
+    display: block;
+    width: 25%;
+    border: none;
+    background-color: #3787c2;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    font-family: freightsans;
+}
 
 }
 footer{ 
