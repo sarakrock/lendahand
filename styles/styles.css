@@ -137,6 +137,9 @@ section5 {
     padding-bottom: 250px;
 }
 
+#badge {
+    float: left;
+}
 footer{ 
  background-color: #3787c2;
     height: 200px;
