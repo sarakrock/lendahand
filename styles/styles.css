@@ -78,6 +78,11 @@ p4{
             width: 500px;
 }
 
+#rightalign {
+            margin-right: 100px;
+            float: right;
+}
+
 h1{font-family: freightsans;
     text-align: right;
     padding: 25px;
