@@ -1,13 +1,13 @@
-#header{
+.navbar{
     background-color:#3787c2;
     height: 80px;
-    width: 100&;
+    width: 100;
     top: 0;
     margin: 0;
     
 }
 
-#header h1 {
+.navbar h1 {
     float: left;
     margin-left: 40px;
     font-family: freightsans;
@@ -15,7 +15,7 @@
     
 }
 
-#header nav {
+.navbar nav {
     float:right;
     top: 0px;
     margin-right: 40px;
@@ -23,14 +23,14 @@
     font-weight: 200;
 }
 
-#header nav ul{
+.navbar nav ul{
     float: right;
     top: 0;
     margin-right: 40px;
     
 }
 
-#header nav ul li {
+.navbar nav ul li {
     display: inline;
     margin-left: 20px;
     margin-right: 20px;
