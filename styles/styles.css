@@ -10,18 +10,16 @@ h1{font-family: freightsans;
 nav{ text-align: center;
     background-color: #3787c2;
     font-family: freightsans;
+    text-align: right;
+    font-size: 2em;
+    padding-top: 5px;
+    font-weight: bold;
        
 }
 
 
-.topnav a {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
+nav a {
     text-decoration: none;
-    font-size: 17px;
-    background-color: #3787c2;
-    padding: 14px 16px;
 }
 
 
