@@ -25,6 +25,7 @@ nav a {
 p{ text-align: left;
     padding-right: 300px;
     font-family: freightsans;
+    color: #3787c2;
     
 }
 
@@ -34,6 +35,7 @@ h4 {
     font-family: freightsans;
     text-align: right;
     font-size: 45px;
+    color: #3787c2;
     }
 
 .navbar {
