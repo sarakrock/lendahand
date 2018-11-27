@@ -7,15 +7,15 @@ h1{font-family: freightsans;
     
 }
 
+#title{
+        float:left;
+    
+}
 
 .navbar {
       padding-top: 15px;
       padding-bottom: 15px;
-      border: 0;
-      border-radius: 0;
-      margin-bottom: 0;
-      font-size: 12px;
-      letter-spacing: 5px;
+      font-size: 25px;
      text-decoration: none;
      text-align: right;
     color: #ffffff;
