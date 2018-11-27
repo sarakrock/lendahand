@@ -41,7 +41,9 @@
 }
 
 p1 { text-align: right;
-    font-family: freightsans;
+    font-family: freight-sans-pro;
+    font-weight: 500;
+    font-style: normal;
     color: #3787c2;
     font-size: 20px;
     }
@@ -67,6 +69,46 @@ p4{
     font-size: 20px;
 }
 
+p5 {text-align: right;
+    color: #3787c2;
+    font-family: freightsans;
+    font-size: 20px;
+    
+}
+
+
+.phone1 {
+    width: 300px;
+    margin-left: 250px;
+    
+    }
+
+.phone2 {width: 300px;
+    float: right;
+    padding-right: 250px;
+    
+    
+}
+
+.phone3{
+        width: 300px;
+    margin-left: 250px;
+}
+
+.badge{
+        width: 300px;
+        float:left;
+        padding-left: 250px;
+}
+
+
+.cirlce {
+    width: 10px;
+    height: 10px;
+    
+}
+
+
 #centertext {
             margin-left: auto;
             margin-right:auto;
@@ -80,7 +122,7 @@ p4{
 
 #rightalign {
             margin-right: 100px;
-            float: right;
+            float:right;
 }
 
 #find {
@@ -113,10 +155,10 @@ h3 {
 
 h4 {
     font-family: freightsans;
-    text-align: right;
+    text-align: left;
     font-size: 35px;
     color: #3787c2;
-    padding-right: 100px;
+    padding-right: 200px;
     }
 
 h5 {
@@ -127,7 +169,7 @@ h5 {
     }
 
 h6{font-family: freightsans;
-    text-align: right;
+    text-align: left;
     font-size: 35px;
     color: #ffffff;
     padding-right: 200px;
@@ -159,8 +201,8 @@ section3 {
 section4 {
     display: block;
     background-color: #ffffff;
-    padding-top: 250px;
-    padding-bottom: 250px;
+    padding-top: 150px;
+    padding-bottom: 500px;
 }
 
 section5 {
@@ -170,25 +212,50 @@ section5 {
     padding-bottom: 250px;
 }
 
+
+
 .block {
     display: block;
-    width: 70%;
+    width: 10%;
     border: none;
-    background-color: #fdd532;
+    background-color: #3787c2;
     padding: 8px 10px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
     font-family: freightsans;
     color:#ffffff;
-    font-style: bold;
+    font-weight: 500;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
+.block2 {
+    display: block;
+    width: 10%;
+    border: none;
+    background-color: #3787c2;
+    padding: 8px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    font-family: freightsans;
+    color:#ffffff;
+    font-weight: 500;
+    border-radius: 5px;
+    justify-content: center;
+    float: left;
 }
+
+
 footer{ 
  background-color: #3787c2;
-    height: 200px;
+    height: 150px;
     font-family: freightsans;
     font-size: 20px;
     font-style: bold;
