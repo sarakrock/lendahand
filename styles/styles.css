@@ -84,6 +84,15 @@ h4 {
     border-right: 200px;
     }
 
+h5 {
+    font-family: freightsans;
+    text-align: right;
+    font-size: 35px;
+    color: #3787c2;
+    border-right: 200px;
+    }
+    
+
 section1 {
     display: block;
     background-color: #ffffff;
