@@ -22,11 +22,17 @@ nav a {
 }
 
 
-p{ text-align: left;
+p1{ text-align: left;
     padding-right: 300px;
     font-family: freightsans;
     color: #3787c2;
     
+}
+
+p2{text-align: center;
+    color: #ffffff;
+    font-family: freightsans;
+    font-size: 20px;
 }
 
 
@@ -45,6 +51,12 @@ h3 {
     color: #ffffff;
 }
 
+
+h2{ 
+    font-family: freightsans;
+    text-align: center;
+    color: #ffffff;
+    }
 .navbar {
       padding-top: 15px;
       padding-bottom: 15px;
