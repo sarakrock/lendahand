@@ -38,6 +38,11 @@ nav a {
 }
 
 
+.nav ul li { display: inline;
+            float: right;
+    
+}
+
 p1 { text-align: left;
     padding-right: 300px;
     font-family: freightsans;
