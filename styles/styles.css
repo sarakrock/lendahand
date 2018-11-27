@@ -70,6 +70,11 @@ p4{
 #centertext {
             margin-left: auto;
             margin-right:auto;
+            width: 1000px;
+}
+
+#aligncopy {  margin-left: auto;
+            margin-right:auto;
             width: 500px;
 }
 
