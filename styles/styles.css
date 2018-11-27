@@ -49,9 +49,16 @@ h4 {
 
 section1 {
     display: block;
-    background-color: #f15e60;
+    background-color: #ffffff;
     padding-top: 250px;
     padding-bottom: 250px;
+}
+
+section2 {
+    display: block;
+    background-color: #f15e60;
+    padding-top: 250px;
+    padding-top: 250px;
 }
 
 footer{ 
