@@ -41,7 +41,7 @@ nav a {
     
 }
 
-p1 { text-align: left;
+p1 { text-align: right;
     padding-right: 300px;
     font-family: freightsans;
     color: #3787c2;
@@ -69,6 +69,7 @@ h4 {
     text-align: right;
     font-size: 35px;
     color: #3787c2;
+    border-right: 200px;
     }
 
 h3 {
