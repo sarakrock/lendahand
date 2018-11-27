@@ -44,7 +44,15 @@ h1 {
     text-align: left;
     font-style: bold;
     font-size: 50;
+    color: #ffffff;
+}
+
+h2 { font-family: freightsans;
+    text-align: left;
+    font-style: bold;
+    font-size: 50;
     color: #3787c2;
+    
 }
 
 p1{
