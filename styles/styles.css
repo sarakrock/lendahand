@@ -38,6 +38,13 @@ h4 {
     color: #3787c2;
     }
 
+h3 {
+    font-family: freightsans;
+    text-align: center;
+    font-size: 35px;
+    color: #ffffff;
+}
+
 .navbar {
       padding-top: 15px;
       padding-bottom: 15px;
@@ -75,6 +82,13 @@ section3 {
 }
 
 section4 {
+    display: block;
+    background-color: #ffffff;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+section5 {
     display: block;
     background-color: #5fc08a;
     padding-top: 250px;
