@@ -86,10 +86,9 @@ h3 {
 
 h4 {
     font-family: freightsans;
-    text-align: right;
+    text-align: left;
     font-size: 35px;
     color: #3787c2;
-    padding-right: 150px;
     }
 
 h5 {
@@ -101,9 +100,9 @@ h5 {
     }
 
 h6{font-family: freightsans;
-    text-align: right;
+    text-align: left;
     font-size: 35px;
-    color: #ffffff;
+    color: #3787c2;
     border-right: 200px;
     
 }
