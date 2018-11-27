@@ -1,34 +1,41 @@
-#title{
-        float:left;
+#header{
+    background-color:#1dd4f9;
+    height: 80px;
+    width: 100&;
+    top: 0;
+    margin: 0;
     
 }
 
-.navbar {
-      padding-top: 15px;
-      padding-bottom: 15px;
-      font-size: 25px;
-     text-decoration: none;
-     text-align: right;
-    color: #ffffff;
-    top: 0px;
-    float: right;
-    }
-
-
-nav { text-align: center;
-    background-color: #3787c2;
+#header h1 {
+    float: left;
+    margin-left: 40px;
     font-family: freightsans;
-    text-align: right;
-    font-size: 2em;
-    font-weight: bold;
-    }
-
-
-nav a {
-    text-decoration: none;
+    font-weight: 600;
+    
 }
 
+#header nav {
+    float:right;
+    top: 0px;
+    margin-right: 40px;
+    font-family: freightsans;
+    font-weight: 200;
+}
 
+#header nav ul{
+    float: right;
+    top: 0;
+    margin-right: 40px;
+    
+}
+
+#header nav ul li {
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 400;
+}
     
 }
 
