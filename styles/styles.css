@@ -67,5 +67,19 @@ section2 {
     padding-top: 250px;
 }
 
+section3 {
+    display: block;
+    background-color: #3787c2;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+section4 {
+    display: block;
+    background-color: #5fc08a;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
 footer{ 
  background-color: #3787c2;}
