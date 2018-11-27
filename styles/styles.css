@@ -7,14 +7,30 @@ h1{font-family: freightsans;
     
 }
 
-nav{ text-align: center;
+
+.navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+     text-decoration: none;
+     text-align: right;
+    color: #ffffff;
+    top: 0px;
+    float: right;
+    }
+
+
+nav { text-align: center;
     background-color: #3787c2;
     font-family: freightsans;
     text-align: right;
     font-size: 2em;
     font-weight: bold;
-       
-}
+    }
 
 
 nav a {
@@ -22,14 +38,14 @@ nav a {
 }
 
 
-p1{ text-align: left;
+p1 { text-align: left;
     padding-right: 300px;
     font-family: freightsans;
     color: #3787c2;
     
 }
 
-p2{text-align: center;
+p2 {text-align: center;
     color: #ffffff;
     font-family: freightsans;
     font-size: 20px;
@@ -57,20 +73,7 @@ h2{
     text-align: center;
     color: #ffffff;
     }
-.navbar {
-      padding-top: 15px;
-      padding-bottom: 15px;
-      border: 0;
-      border-radius: 0;
-      margin-bottom: 0;
-      font-size: 12px;
-      letter-spacing: 5px;
-     text-decoration: none;
-     text-align: right;
-    color: #ffffff;
-    top: 0px;
-    
-  }
+
 
 section1 {
     display: block;
