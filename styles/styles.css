@@ -144,4 +144,6 @@ footer{
     height: 200px;
     font-family: freightsans;
     font-size: 20px;
+    font-style: bold;
+    color: #ffffff;
 }
