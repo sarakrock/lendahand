@@ -66,6 +66,12 @@ p4{
     font-size: 20px;
 }
 
+#centertext {
+            margin-left: auto;
+            margin-right:auto;
+            width: 500px;
+}
+
 h1{font-family: freightsans;
     text-align: right;
     padding: 25px;
