@@ -4,6 +4,21 @@
     width: 100;
     top: 0;
     margin: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    font-family: freightsans;
+    font-weight: 500;
+    color: #ffffff;
+    align-content: center;
+    
+    
     
 }
 
@@ -12,6 +27,7 @@
     margin-left: 40px;
     font-family: freightsans;
     font-weight: 600;
+    
     
 }
 
@@ -22,12 +38,17 @@
     font-family: freightsans;
     font-weight: 200;
     text-decoration: none;
+    font-size: 20;
+    margin-top: 15px;
+    
 }
 
 .navbar nav ul{
     float: right;
     top: 0;
     margin-right: 40px;
+    text-decoration: none;
+    font-size: 20;
     
 }
 
@@ -36,8 +57,80 @@
     margin-left: 20px;
     margin-right: 20px;
     font-weight: 400;
+    text-decoration: none;
+    font-size: 20;
+    
 }
 
+#circle1 {
+    width:90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: #3787c2;
+    margin-top: 70px;
+    z-index: 6;
+    float: right;
+    margin-right: -250px;
+    
+}
+#circle2 {
+      width: 300px;
+      height: 300px;
+      border-radius: 200px;
+      background-color: #fdd532;
+        z-index: -2;
+        margin-top: -110px;
+    margin-left: -20px;
+    margin-right: -60px;
+    float: right;
+    }
+
+#circle3 {   
+    width: 140px;
+    height: 140px;
+    border-radius: 75px;
+    background-color: #f15e60;
+    z-index: 5;
+    margin-top: 100px;
+    margin-left: 210px;
+    margin-right: -110px;
+    float: right;
+}
+#circle4 {
+    width:90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: #fdd532;
+    margin-top: 80px;
+    z-index: 6;
+    margin-top: -210px;
+    margin-left: 200px;
+    
+    
+}
+#circle5 {
+      width: 300px;
+      height: 300px;
+      border-radius: 200px;
+      background-color: #f15e60;
+        z-index: -2;
+        margin-top: -70px;
+    margin-left: -30px;
+    margin-right: -50px;
+    
+    }
+
+#circle6 {   
+    width: 140px;
+    height: 140px;
+    border-radius: 75px;
+    background-color: #3787c2;
+    z-index: 5;
+    margin-left: 150px;
+    margin-right: -110px;
+    margin-top: -100px;
+    
+}
 
 h1 {
     font-family: freightsans;
@@ -52,6 +145,7 @@ h2 { font-family: freightsans;
     font-style: bold;
     font-size: 50;
     color: #3787c2;
+    padding-top: -50px;
     
 }
 
@@ -67,6 +161,55 @@ p1{
     font-family: freightsans;
     color: #3787c2;
     font-size: 20px;
+}
+
+#circle {
+      width: 350px;
+      height: 350px;
+      border-radius: 175px;
+      border-radius: 175px;
+      border-radius: 175px;
+      background-color: #fdd532;
+   margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    font-family: freightsans;
+    text-align: center;
+    color: #000000;
+    font-weight: 600;
+    z-index: 2;
+    }
+
+.circletext {
+    font-family: freightsans;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 125px;
+    font-weight: 600;
+    font-size: 35px;
+    
+}
+
+.block3 {
+    display: block;
+    width: 40%;
+    border: none;
+    background-color: #3787c2;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    font-family: freightsans;
+    color:#ffffff;
+    font-weight: 500;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
 }
 
 
